@@ -10,7 +10,7 @@ from koi_net.config.full_node import (
 
 class MyNodeConfig(FullNodeConfig):
     koi_net: KoiNetConfig = KoiNetConfig(
-        node_name="my-node-name",   # human readable name for your node
+        node_name="zknet-koi",   # human readable name for your node
         node_profile=NodeProfile(
             provides=NodeProvides(
                 event=[],   # RID types of provided events

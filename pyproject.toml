@@ -1,5 +1,5 @@
 [project]
-name = "koi-net-CHANGE-NAME-node"
+name = "koi-net-zknet-koi-node"
 version = "0.1.0"
 description = "SET NODE DESCRIPTION"
 authors = [
